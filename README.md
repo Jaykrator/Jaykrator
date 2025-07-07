@@ -6,6 +6,7 @@
 ### 💬 About Me
 
 -🌱 I’m currently working on building real-world frontend projects
+- I'm open to collaborating
 - 💡 I design visually appealing UIs and social media assets using **Canva**
 - 📢 I create digital content for brands and growing tech creators
 - ✍️ I blog my learning journey on [Medium](https://medium.com/@umerahchikaodi)
