@@ -1,7 +1,7 @@
-## Hi there 👋 I'm Jacinta
+<h1 align="center">## Hi there 👋 I'm Jacinta </h1>
 
-Frontend developer | Canva designer| Technical writer | Content Marketer
-I develop beautiful responsive scalable web apps and create content that not only looks good but also converts
+<h3 align="center">Frontend developer | Canva designer| Technical writer | Content Marketer </h3>
+<p align="center">I develop beautiful responsive scalable web apps and create content that not only looks good but also converts</p>
 
 ### 💬 About Me
 
@@ -17,10 +17,6 @@ I develop beautiful responsive scalable web apps and create content that not onl
 - HTML | CSS | JavaScript | React | Tailwind CSS
 - Git & GitHub | Canva | Notion
 
-  ### 🔧some of my Projects:
-- [📚 Library App](https://github.com/Jaykrator/library-app)
-- [🧮 Calculator](https://github.com/Jaykrator/calculator)
-- [🌤 Weather App](https://github.com/Jaykrator/Weather-App)
   
 ### 🛠️ I Work With:
 
