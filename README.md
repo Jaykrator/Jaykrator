@@ -1,12 +1,15 @@
 <h1 align="center">## Hi there 👋 I'm Jacinta </h1>
 
-<h3 align="center">Frontend developer | Canva designer| Technical writer | Content Marketer </h3>
-<p align="center">I develop beautiful responsive scalable web apps and create content that not only looks good but also converts</p>
+<h3 align="center">Frontend Developer | Problem Solver | Creative Thinker
+</h3>
+<p align="center">I'm a passionate **Frontend Engineer** focused on building clean, accessible, and responsive web applications using modern tools and technologies.
+</p>
 
 ### 💬 About Me
 
--🌱 I’m currently working on building real-world frontend projects
+-✨ Writing semantic, clean, and scalable code
 - I'm open to collaborating
+- 🎓 Currently learning: React Ecosystem
 - 💡 I design visually appealing UIs and social media assets using **Canva**
 - 📢 I create digital content for brands and growing tech creators
 - ✍️ I blog my learning journey on [Medium](https://medium.com/@umerahchikaodi)
